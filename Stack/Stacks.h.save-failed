@@ -1,0 +1,92 @@
+#ifndef STACKS_H
+#define STACKS_H
+#include "Mylist.h"
+
+template<class T>
+class Stacks:public Mylist
+{
+private:
+struct node{
+int item;
+node * next;
+
+};
+int length;
+node  *top;
+
+    public:
+        Stacks(){
+        length=0;
+        top=0;
+        }
+           Stacks(T value,int initial_size){
+
+
+           }
+        ~Stacks(){
+        length=0;
+        top=0;
+        delete top;
+        }
+
+
+
+bool isempty(){
+return length==0;
+}
+int  size(){
+    return length;
+    }
+void push(T value){
+node *newNode;
+newNode=new node();
+newNode->item=value;
+if(isempty()){
+newNode->next=0;
+top=newNode;
+
+}
+else{
+    newNode->next=top;
+    top=newNode;
+
+}
+length++;
+}
+
+void pop(){
+    if(isempty()){
+            cout<<"stack is empty"<<endl;
+            }
+else{
+node *curr=top;
+top=top->next;
+delete curr;
+length--;
+}
+}
+
+T&Top(){
+    if(isempty()){
+            cout<<"stack is empty"<<endl;}
+else{
+   return top->item;}
+}
+
+
+
+void display(){
+    node *cur=top;
+while(cur!=0)
+{
+  cout<<cur->item<<" ";
+  cur=cur->next;
+
+}
+cout<<endl;
+
+}
+
+};
+
+#endif // STACKS_H

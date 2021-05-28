@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1586635611 source:c:\users\manaz\desktop\queue\linked_list.cpp
+
+1586638131 source:c:\users\manaz\desktop\queue\main.cpp
+	<iostream>
+	"queue.h"
+	"linked_list.h"
+
+1586638202 c:\users\manaz\desktop\queue\queue.h
+	<iostream>
+	"linked_list.h"
+
+1586635800 c:\users\manaz\desktop\queue\linked_list.h
+	<iostream>
+
+1586636509 source:c:\users\manaz\desktop\queue\queue.cpp
+
+1586274597 source:c:\users\zezoa\desktop\ass2 data structur\queue\linked_list.cpp
+
+1587044815 source:c:\users\zezoa\desktop\ass2 data structur\queue\main.cpp
+	<iostream>
+	"queue.h"
+	"linked_list.h"
+
+1587475407 c:\users\zezoa\desktop\ass2 data structur\queue\queue.h
+	<iostream>
+	"linked_list.h"
+
+1587475407 c:\users\zezoa\desktop\ass2 data structur\queue\linked_list.h
+	<iostream>
+
+1587044177 source:c:\users\zezoa\desktop\ass2 data structur\queue\queue.cpp
+

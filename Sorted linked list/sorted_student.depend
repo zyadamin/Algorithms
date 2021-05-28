@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1586651756 source:c:\users\manaz\desktop\sorted_student\list.cpp
+
+1586909869 source:c:\users\manaz\desktop\sorted_student\main.cpp
+	"studentlist.h"
+	<iostream>
+	"student.h"
+
+1586909953 c:\users\manaz\desktop\sorted_student\studentlist.h
+	<iostream>
+	"student.h"
+
+1586702578 c:\users\manaz\desktop\sorted_student\student.h
+	<iostream>
+
+1586702265 source:c:\users\manaz\desktop\sorted_student\student.cpp
+
+1586702345 source:c:\users\manaz\desktop\sorted_student\studentlist.cpp
+

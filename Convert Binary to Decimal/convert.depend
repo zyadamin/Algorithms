@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1586676667 source:c:\users\zezoa\desktop\convert\main.cpp
+	<iostream>
+	"stack"
+	<cmath>
+
+1587476996 source:c:\users\zezoa\desktop\ass2 data structur\convert\main.cpp
+	<iostream>
+	"Stacks.h"
+	<cmath>
+
+1587514490 source:c:\users\salsabil\downloads\ass2 data structur\ass2 data structur\convert\main.cpp
+	<iostream>
+	"Stacks.h"
+	<cmath>
+
+1587089895 c:\users\salsabil\downloads\ass2 data structur\ass2 data structur\convert\stacks.h
+	"linked_list.h"
+	<iostream>
+
+1587089846 c:\users\salsabil\downloads\ass2 data structur\ass2 data structur\convert\linked_list.h
+	<iostream>
+
+1587086295 c:\users\zezoa\desktop\ass2 data structur\convert\stacks.h
+	"linked_list.h"
+	<iostream>
+
+1587086246 c:\users\zezoa\desktop\ass2 data structur\convert\linked_list.h
+	<iostream>
+

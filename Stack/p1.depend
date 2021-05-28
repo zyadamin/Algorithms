@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1586676141 source:e:\p1\main.cpp
+	<iostream>
+	"linked_list.h"
+	"Stacks.h"
+
+1586676548 e:\p1\stacks.h
+	"linked_list.h"
+	<iostream>
+
+1586318822 e:\p1\mylist.h
+	<iostream>
+	"Stacks.h"
+
+1586319082 source:e:\p1\stacks.cpp
+
+1586676002 e:\p1\linked_list.h
+	<iostream>
+
+1586310597 source:e:\p1\linked_list.cpp
+
+1586274597 source:c:\users\zezoa\desktop\ass2 data structur\stack\linked_list.cpp
+
+1586315482 source:c:\users\zezoa\desktop\ass2 data structur\stack\stacks.cpp
+
+1587043907 source:c:\users\zezoa\desktop\ass2 data structur\stack\main.cpp
+	<iostream>
+	"linked_list.h"
+	"Stacks.h"
+
+1587044356 c:\users\zezoa\desktop\ass2 data structur\stack\linked_list.h
+	<iostream>
+
+1587036754 c:\users\zezoa\desktop\ass2 data structur\stack\stacks.h
+	"linked_list.h"
+	<iostream>
+
+1586310597 source:c:\users\salsabil\downloads\ass2 data structur\ass2 data structur\stack\linked_list.cpp
+
+1587079907 source:c:\users\salsabil\downloads\ass2 data structur\ass2 data structur\stack\main.cpp
+	<iostream>
+	"linked_list.h"
+	"Stacks.h"
+
+1587516484 c:\users\salsabil\downloads\ass2 data structur\ass2 data structur\stack\linked_list.h
+	<iostream>
+
+1587072754 c:\users\salsabil\downloads\ass2 data structur\ass2 data structur\stack\stacks.h
+	"linked_list.h"
+	<iostream>
+
+1586351482 source:c:\users\salsabil\downloads\ass2 data structur\ass2 data structur\stack\stacks.cpp
+

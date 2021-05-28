@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1586946107 source:c:\users\zezoa\desktop\ass2 data structur\s2_p4\main.cpp
+	"studentlist.h"
+	<iostream>
+	"student.h"
+
+1586946107 c:\users\zezoa\desktop\ass2 data structur\s2_p4\studentlist.h
+	<iostream>
+	"student.h"
+
+1586946107 c:\users\zezoa\desktop\ass2 data structur\s2_p4\student.h
+	<iostream>
+
+1586946107 source:c:\users\zezoa\desktop\ass2 data structur\s2_p4\student.cpp
+
+1586946107 source:c:\users\zezoa\desktop\ass2 data structur\s2_p4\studentlist.cpp
+

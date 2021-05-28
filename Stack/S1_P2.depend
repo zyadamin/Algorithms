@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1586306997 source:c:\users\zezoa\desktop\ass2 data structur\s1_p2\linked_list.cpp
+
+1587076307 source:c:\users\zezoa\desktop\ass2 data structur\s1_p2\main.cpp
+	<iostream>
+	"linked_list.h"
+	"Stacks.h"
+
+1587477132 c:\users\zezoa\desktop\ass2 data structur\s1_p2\linked_list.h
+	<iostream>
+
+1587069154 c:\users\zezoa\desktop\ass2 data structur\s1_p2\stacks.h
+	"linked_list.h"
+	<iostream>
+
+1586347882 source:c:\users\zezoa\desktop\ass2 data structur\s1_p2\stacks.cpp
+
